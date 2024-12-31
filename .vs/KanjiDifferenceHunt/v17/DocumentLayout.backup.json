@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\windows\\src\\repos\\KanjiDifferenceHunt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6708B83-C5B6-4FD1-90D7-AB318ED7F4AE}|KanjiDifferenceHunt\\KanjiDifferenceHunt.csproj|d:\\dev\\windows\\src\\repos\\kanjidifferencehunt\\kanjidifferencehunt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6708B83-C5B6-4FD1-90D7-AB318ED7F4AE}|KanjiDifferenceHunt\\KanjiDifferenceHunt.csproj|solutionrelative:kanjidifferencehunt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\KanjiDifferenceHunt\\KanjiDifferenceHunt\\Form1.cs",
+              "RelativeDocumentMoniker": "KanjiDifferenceHunt\\Form1.cs",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\KanjiDifferenceHunt\\KanjiDifferenceHunt\\Form1.cs [Design]",
+              "RelativeToolTip": "KanjiDifferenceHunt\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T04:13:11.888Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
