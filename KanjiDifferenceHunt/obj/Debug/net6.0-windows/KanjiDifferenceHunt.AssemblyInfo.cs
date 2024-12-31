@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KanjiDifferenceHunt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1aa0b99a066f2052612a01bed49c5bd38787a0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("KanjiDifferenceHunt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KanjiDifferenceHunt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

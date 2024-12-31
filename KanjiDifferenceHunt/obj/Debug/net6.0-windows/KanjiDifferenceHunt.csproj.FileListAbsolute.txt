@@ -1,0 +1,17 @@
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\bin\Debug\net6.0-windows\KanjiDifferenceHunt.exe
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\bin\Debug\net6.0-windows\KanjiDifferenceHunt.deps.json
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\bin\Debug\net6.0-windows\KanjiDifferenceHunt.runtimeconfig.json
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\bin\Debug\net6.0-windows\KanjiDifferenceHunt.dll
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\bin\Debug\net6.0-windows\KanjiDifferenceHunt.pdb
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\KanjiDifferenceHunt.FormGame.resources
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\KanjiDifferenceHunt.csproj.GenerateResource.cache
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\KanjiDifferenceHunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\KanjiDifferenceHunt.AssemblyInfoInputs.cache
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\KanjiDifferenceHunt.AssemblyInfo.cs
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\KanjiDifferenceHunt.csproj.CoreCompileInputs.cache
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\KanjiDifferenceHunt.sourcelink.json
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\KanjiDifferenceHunt.dll
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\refint\KanjiDifferenceHunt.dll
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\KanjiDifferenceHunt.pdb
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\KanjiDifferenceHunt.genruntimeconfig.cache
+D:\dev\windows\src\repos\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\net6.0-windows\ref\KanjiDifferenceHunt.dll
